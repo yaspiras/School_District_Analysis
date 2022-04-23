@@ -15,7 +15,7 @@ For this reason, the math and reading scores for Thomas High School were replace
        % Passing Math-75.0	% Passing Reading-85.8 % Overall Passing-65.2
   -  **Re-analysis:**
        % Passing Math-74.8	% Passing Reading-85.7 % Overall Passing-64.9
- - **School summary: no significant change**
+- **School summary: no significant change**
   -  **Orginal:**
        % Passing Math-75.0	% Passing Reading-85.8 % Overall Passing-65.2
   -  **Re-analysis:**
