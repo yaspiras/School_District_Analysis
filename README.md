@@ -6,9 +6,11 @@ For this reason, the math and reading scores for Thomas High School were replace
 
 ## Results: Changing the Thomas High School 9th Grade math and reading scores affected the following:
 **A) District summary: no significant change**
-  **1) Orginal:** % Passing Math-75.0	% Passing Reading-85.8 % Overall Passing-65.2
-  **1) Re-analysis:** % Passing Math-74.8	% Passing Reading-85.7 % Overall Passing-64.9
-**B) School summary: there was significant change if number of 9th graders were factored into the calculation but did not        make a difference when the count of 9th grade students were removed from the total number of Thomas High Schools Students
+  **1) Orginal:**
+       % Passing Math-75.0	% Passing Reading-85.8 % Overall Passing-65.2
+  **1) Re-analysis:**
+       % Passing Math-74.8	% Passing Reading-85.7 % Overall Passing-64.9
+**B) School summary:** there was significant change if number of 9th graders were factored into the calculation but did not      make a difference when the count of 9th grade students were removed from the total number of Thomas High Schools Students
 **- Thomas High School's Performance relative to other schools:
   **1) Orginal:** 
   **2) Re-analysis:**
