@@ -11,30 +11,16 @@ For this reason, the math and reading scores for Thomas High School were replace
   -  **Re-analysis:**
        % Passing Math-74.8	% Passing Reading-85.7 % Overall Passing-64.9
 - **School summary: no significant change**
+- **Thomas High School Performance relative to other schools:** Thomas High School is still the top 2 from all schools.
   -  **Orginal:**
-       % Passing Math-75.0	% Passing Reading-85.8 % Overall Passing-65.2
-  -  **Re-analysis:**
-       % Passing Math-74.8	% Passing Reading-85.7 % Overall Passing-64.9
-- **School summary: no significant change**
-  -  **Orginal:**
-       % Passing Math-75.0	% Passing Reading-85.8 % Overall Passing-65.2
-  -  **Re-analysis:**
-       % Passing Math-74.8	% Passing Reading-85.7 % Overall Passing-64.9
-- **Math and reading scores by grade:**
-  -  **Orginal:**
-       % Passing Math-75.0	% Passing Reading-85.8 % Overall Passing-65.2
-  -  **Re-analysis:**
-       % Passing Math-74.8	% Passing Reading-85.7 % Overall Passing-64.9
-- **Scores by schools spending:**
-  -  **Orginal:**
-       % Passing Math-75.0	% Passing Reading-85.8 % Overall Passing-65.2
-  -  **Re-analysis:**
-       % Passing Math-74.8	% Passing Reading-85.7 % Overall Passing-64.9
-- **Scores by school size:**
-  -  **Orginal:**
-       % Passing Math-75.0	% Passing Reading-85.8 % Overall Passing-65.2
-  -  **Re-analysis:**
-       % Passing Math-74.8	% Passing Reading-85.7 % Overall Passing-64.9
+       % Passing Math-93.3	% Passing Reading-97.3 % Overall Passing-90.9
+  -  **Re-analysis without adjusting total student count:**
+       % Passing Math-66.9	% Passing Reading-69.7 % Overall Passing-65.1
+  -  **Re-analysis with adjusting of total student count by removing 9th-Grade student count:**
+       % Passing Math-93.2	% Passing Reading-97.0 % Overall Passing-90.6
+- **Math and reading scores by grade:** math and reading scores by all other grades were not affected.  9th grade scores          were not calculated because scores were replaced with NaNs
+- **Scores by schools spending:** no change
+- **Scores by school size:** no change
 - **Scores by school type:**
   -  **Orginal:**
        % Passing Math-75.0	% Passing Reading-85.8 % Overall Passing-65.2
