@@ -19,11 +19,9 @@ For this reason, the math and reading scores for Thomas High School were replace
   -  **Re-analysis with adjusting of total student count by removing 9th-Grade student count:**
        % Passing Math-93.2	% Passing Reading-97.0 % Overall Passing-90.6
 - **Math and reading scores by grade:** math and reading scores by all other grades were not affected.  9th grade scores          were not calculated because scores were replaced with NaNs
-- **Scores by schools spending:** no change
-- **Scores by school size:** no change
-- **Scores by school type:**
-  -  **Orginal:**
-       % Passing Math-75.0	% Passing Reading-85.8 % Overall Passing-65.2
-  -  **Re-analysis:**
-       % Passing Math-74.8	% Passing Reading-85.7 % Overall Passing-64.9
+- **Scores by schools spending:** no significant change
+- **Scores by school size:** no significant change
+- **Scores by school type:** no significant change
+  
 ## Summary: Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
+After changing the Thomas High School 9th grade math and reading scores to NaN and redoing district and school analysis, we found that there was no significant change from the original numbers.  Although there was no significant change in the result, it was still important that the re-analysis was done to see if there was an actual effect on the results. Re-analysis of data is due diligence after knowing that there was alleged dishonesty that occured. 
