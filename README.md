@@ -1,8 +1,16 @@
 # School_District_Analysis
-Project not complete
+##Overview of the school district analysis: Explain the purpose of this analysis.
 
-For Deliverable 1: 
-- was only able to use loc method to find 9th grade students from Thomas High School but not able to replace reading_score with NaN
-- refactoring code for math_score was not successful since the reading_score was still showing up
+##Results: Using bulleted lists and images of DataFrames as support, address the following questions.
 
-Will try to go through lesson again to finish this project
+- How is the district summary affected?
+- How is the school summary affected?
+- How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+- 
+##How does replacing the ninth-grade scores affect the following:
+- Math and reading scores by grade
+- Scores by school spending
+- Scores by school size
+- Scores by school type
+- 
+##Summary: Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
